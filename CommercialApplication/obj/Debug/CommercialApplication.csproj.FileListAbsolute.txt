@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\CommercialApplication\CommercialApplication\bin\Debug\CommercialApplication.exe.config
+C:\Users\Lenovo\Desktop\CommercialApplication\CommercialApplication\bin\Debug\CommercialApplication.exe
+C:\Users\Lenovo\Desktop\CommercialApplication\CommercialApplication\bin\Debug\CommercialApplication.pdb
+C:\Users\Lenovo\Desktop\CommercialApplication\CommercialApplication\obj\Debug\CommercialApplication.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CommercialApplication\CommercialApplication\obj\Debug\CommercialApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CommercialApplication\CommercialApplication\obj\Debug\CommercialApplication.exe
+C:\Users\Lenovo\Desktop\CommercialApplication\CommercialApplication\obj\Debug\CommercialApplication.pdb
